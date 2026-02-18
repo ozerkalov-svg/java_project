@@ -1,0 +1,10 @@
+<ArrayList>
+    <record>
+        <field1>A1</field1>
+        <field2>B1</field2>
+    </record>
+    <record>
+        <field1>A2</field1>
+        <field2>B2</field2>
+    </record>
+</ArrayList>
